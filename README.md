@@ -4,9 +4,6 @@ I'm Naomi Zerfu
 Front-End web- developer
 ------------------------
 
-* 🌍  I'm based in Ethiopia
-* ✉️  You can contact me at [naomizerfu@gmail.com](mailto:naomizerfu@gmail.com)
-* ⚡  If you like to see a magic trick, dm. I'm a magician
 ### Skills
 
 <p align="left">
